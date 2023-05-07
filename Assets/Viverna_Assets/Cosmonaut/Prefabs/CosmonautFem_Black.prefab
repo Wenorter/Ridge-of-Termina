@@ -1841,7 +1841,7 @@ GameObject:
   - component: {fileID: 95451762313028570}
   m_Layer: 0
   m_Name: CosmonautFem_Black
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1877,11 +1877,11 @@ Animator:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1806322766702510}
   m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: 71f6563337daf9348bf3820763cb63b4, type: 3}
+  m_Avatar: {fileID: 9000000, guid: 2e91d80dbd0fe2d44a4933308d7e6604, type: 3}
   m_Controller: {fileID: 9100000, guid: 4ff64fefaf9c76e4ebd0627320b46654, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
-  m_ApplyRootMotion: 0
+  m_ApplyRootMotion: 1
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
   m_WarningMessage: 
