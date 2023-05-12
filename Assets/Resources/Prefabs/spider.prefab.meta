@@ -1,27 +1,3 @@
-fileFormatVersion: 2
-guid: 89f54d1c7a4610f48ad49ef04f78ee1f
-labels:
-- Robot
-- Spider
-- Mech
-- Bot
-- Machine
-- Vechicle
-- Droid
-- Lowpoly
-- Hardsurface
-- Game
-- Mobile
-- Drone
-- War
-- Scifi
-- Dsf
-- Future
-- Futuristic
-- Modern
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 0
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:38075a0accf99c5a3e21c438b101f7a2dc7a7b10d640c1d04c6078ba60f0d744
+size 375
