@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Em-Cave.unity
+    path: Assets/Act1_BlueCave.unity
     guid: e88383fb81caecb44971a2b69787e03c
   - enabled: 0
-    path: Assets/Scenes/Forest.unity
+    path: Assets/Act2_Forest.unity
     guid: bd64bc48836ece54c8df3568a49b700c
   m_configObjects: {}
